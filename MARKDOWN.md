@@ -6,3 +6,5 @@ Some minimal status code error handling was included because that was covered in
 taking, and it seemed like good practice for error handling based on the material. I then created the 
 dataframe with the returned data, opting to only include a few columns in the final dataframe because 
 my IDE's terminal just shows "..." between columns if there's too many of those.
+
+UPDATE: I forgot to mention that the API I'm using for this assignment is the NYT Books API.
